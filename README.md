@@ -1,5 +1,5 @@
 # caption-maker
-small tkinter GUI for automatically generating subtitles for .mp4 files (based on autosub and speech-recognition)
+small tkinter GUI to auto-generate subtitles for .mp4 files (based on autosub and speech-recognition)
 
 usage:
 
